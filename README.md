@@ -12,6 +12,7 @@ Cryptopunks-pixel-art Dataset: [download](https://www.kaggle.com/datasets/chwasi
 |-- model.py
 |-- utils.py
 |-- run.py
+|-- requirements.txt
 ```
 
 ### Train
