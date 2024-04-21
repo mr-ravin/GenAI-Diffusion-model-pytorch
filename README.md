@@ -20,6 +20,8 @@ Cryptopunks-pixel-art Dataset: [download](https://www.kaggle.com/datasets/chwasi
 python3 run.py --mode train
 ```
 
+![train image](https://github.com/mr-ravin/GenAI-Diffusion-model-pytorch/blob/main/result/training_analysis.png?raw=true)
+
 ```
 Copyright (c) 2024 Ravin Kumar
 Website: https://mr-ravin.github.io
